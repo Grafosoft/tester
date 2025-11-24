@@ -9,7 +9,9 @@ Instrucciones
 Utiliza la siguiente API para realizar los pruntos de la prueba:
 https://lab.cuental.com/api/v1/items/15578?companyId=8&apikey=4d6356d5-c17c-4539-a679-cc9c27537a27
 
-Consulta la API con una petición GET y analiza la infomarción, propiedades, estructura y tipo de datos que te trae el API con código de estado 200, crea una documentación en  Apidog.
+Consulta la API con una petición GET y analiza la infomarción, propiedades, estructura y tipo de datos que te trae el API con código de estado 200, crea una documentación en  Apidog (https://apidog.com/es/).
+<img width="1918" height="1037" alt="Captura de pantalla 2025-11-24 a la(s) 10 10 39 a m" src="https://github.com/user-attachments/assets/18981350-2926-4c51-8687-35bb3e823513" />
+
 
 La documentación debe contener:
 1. Información general del API, descripción del recurso, a qué tipo de aplicaciones es útil la información consultada?
@@ -26,53 +28,4 @@ Instrucciones
 Ingresa a la página de inicio de sesión:
 https://app.bilidox.com/
 
-Analiza la pantalla como QA Tester, evaluando funcionalidad, UX e interfaz.
-
-Entrega solicitada
-1. Errores encontrados (bugs)
-
-Usa un formato estructurado:
-
-Título del bug
-
-Pasos para reproducirlo
-
-Resultado actual
-
-Resultado esperado
-
-Severidad (baja, media, alta)
-
-Evidencia opcional (capturas o descripción)
-
-2. Problemas de usabilidad
-
-Evalúa aspectos como:
-
-Claridad del flujo de ingreso
-
-Legibilidad
-
-Retroalimentación al usuario
-
-Estado de los campos
-
-Diseño responsivo
-
-3. Recomendaciones de mejora
-
-Propón mejoras justificadas que puedan facilitar:
-
-El inicio de sesión
-
-La experiencia del usuario
-
-La reducción de errores
-
-Formato de entrega
-
-Un documento en PDF, Word o Google Docs.
-
-Separar claramente Parte 1 y Parte 2.
-
-Redacción clara, objetiva y profesional.
+Analiza la pantalla como QA Tester, evaluando funcionalidad, UX e interfaz, puedes usar la misma página de la documentación del API de la parte 1 para realizar las observaciones de mejoras, cambios y correción de errores que encuentres, revisa el diseño responsive, los campos, si los tipos de campos son correctos, enlaces, botones, mensajes de error, colores, estructura de la página, etc.
